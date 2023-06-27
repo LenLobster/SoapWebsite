@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+   }
+   
+   .Topic{
+    font-size: 20px;
+    font-weight: bold;
+
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+
+    border-width: 5px;
+    border-color: rgb(0, 255, 0);  
+    border-style: solid;  
+    border-radius: 10px;
+    
+    margin-bottom: 100px;
+   }
+
+   .Topic1{
+    font-size: 16px;
+    font-weight: bold;
+
+    margin-bottom: 10;
+   }
+
+   .Topic2{
+    font-size: 16;
+    margin-bottom: 50px;
+
+   }
+
+   .Topic3{
+    font-size: 13;
+    margin-bottom: 50px;
+
+   }
+
+   .soap-natural{
+    width: 300px;
+    
+   }
+
+   .oil{
+    width: 300px;
+    transform: scaleX(-1);
+   }
+
+   .plus{
+    width: 100px;
+    margin-bottom: 50;
+    }
+
+    .Cresent1{
+        width: 100px;
+        transform: scaleX(-1);
+    }
+
+    .Cresent2{
+        width: 100px;
+    }
+
+    .NaOH{
+        width: 200px;
+        margin-bottom: 40;
+    }
+
+    .H2O{
+        width: 150px;
+        margin-bottom: 40;
+    }
+
+
+
+
+
+
+   
+   
